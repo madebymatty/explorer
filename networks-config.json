@@ -1,0 +1,15 @@
+[
+  {
+    "name": "localnode",
+    "displayName": "LOCAL NODE",
+    "url": "http://127.0.0.1:5551",
+    "ledgerID": "FF",
+    "sourcifySetup": {
+      "activate": true,
+      "repoURL": "http://localhost:10000/contracts/",
+      "serverURL": "http://localhost:5002/",
+      "verifierURL": "http://localhost:3000/#/",
+      "chainID": 298
+    }
+  }
+]
